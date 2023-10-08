@@ -2,6 +2,8 @@
 
 NFT（Non-fungible tokens）是代表一种类型的数字代币或资产。
 
+![NFTS](images/NFT1.png)
+
 ## NFT 的特征
 - unique
 - provably scarce

@@ -26,6 +26,6 @@
   * [其他 DeFi 业务](DeFi/5.4-Other-DeFi-Project.md)
   * [DeFi 的风险和潜力](DeFi/5.5-Risks-and-Potential-of-DeFi.md)
 * [非同质化代币(NFTs)](nft/README.md)
-  * [什么是 NFT](nft/shi-mo-shi-nft.md)
-  *
-  * [NFT 生态](nft/nft-sheng-tai.md)
+  * [什么是 NFT](NFT/what_is_NFT.md)
+  * [NFT 演变过程](NFT/how_NFT_concept_formed.md)
+  * [NFT 生态](NFT/NFT_ecosystem.md)

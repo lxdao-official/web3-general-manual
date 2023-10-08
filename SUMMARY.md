@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [前言](qian-yan.md)
+* [前言](preface.md)
 * [第一章: web3 基础概念](di-yi-zhang-web3-ji-chu-gai-nian/README.md)
   * [什么是 web3](chapter1/whatisweb3.md)
   * [web3 和 web2 的区别](chapter1/difference\_between\_web3\_and\_web2.md)

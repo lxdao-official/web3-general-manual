@@ -17,8 +17,10 @@
 - 该标准是受到了 ERC-20 的启发，并建立在 ERC-20 2年的应用经验之上。
 - 提案动机：允许钱包/经纪人/拍卖应用程序与以太坊上的任何 NFT 配合使用。
 - 同质化和非同质化。
-  ![NFTS](images/NFT2.png)
+
+![NFTS](images/NFT2.png)
 - 现在币面上绝大部分 NFT 采用的就是 ERC-721 标准。
+
 ![NFTS](images/NFT6.png)
 
 ## ERC-1155

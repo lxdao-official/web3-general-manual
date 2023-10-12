@@ -1,17 +1,8 @@
-# NFT生态
+# NFT 生态
 
-## NFT 的用途
-- proving that you attended an event
-- certify that you completed a course
-- ownable items for games
-- digital art
-- tokenizing real-world assets
-- proving your online identity
-- gating access to content
-- ticketing
-- decentralized internet domain names
-- collateral in DeFi
+## 市场和交易平台
 
+## 
 
 ## 术语
 铸造：mint，创建或铸造新的代币或资产的过程。

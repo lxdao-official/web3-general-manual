@@ -1,5 +1,5 @@
 
-# NFT 的用途
+# NFT 用途
 - proving that you attended an event
 - certify that you completed a course
 - ownable items for games

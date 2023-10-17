@@ -31,6 +31,6 @@
   * [NFT 制作和运营](NFTs/how_NFT_generate.md)
   * [NFT 用途](NFTs/what_are_NFTs_used_for.md)
   * [NFT 生态](NFTs/NFT_ecosystem.md)
-* [第九章：现实问题)](Practical-Problem/9.0-Practical-Problem.md)
+* [第九章：现实问题](Practical-Problem/9.0-Practical-Problem.md)
   * [隐私与安全](Practical-Problem/9.1-Privacy-and-Security.md)
   * [法律与监管](Practical-Problem/9.2-Regulation.md)

@@ -29,6 +29,7 @@
   * [什么是 NFT](NFTs/what_is_NFT.md)
   * [NFT 演变过程](NFTs/how_NFT_concept_formed.md)
   * [NFT 制作和运营](NFTs/how_NFT_generate.md)
+  * [NFT 市场](NFTs/NFT_market.md)
   * [NFT 用途](NFTs/what_are_NFTs_used_for.md)
   * [NFT 生态](NFTs/NFT_ecosystem.md)
 * [第九章：现实问题](Practical-Problem/9.0-Practical-Problem.md)

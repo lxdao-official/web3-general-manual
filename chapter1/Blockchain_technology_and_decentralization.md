@@ -26,4 +26,3 @@
 
 ## 🌐 Sources
 1. [51cto.com - 区块链解码：初学者指南](https://www.51cto.com/article/746163.html)
-2. [cnblogs.com - 区块链概念- 鲲逸鹏](https://www.cnblogs.com/dotnetcrazy/p/9119003.html)

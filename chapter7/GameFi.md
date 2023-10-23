@@ -6,3 +6,5 @@ GameFi由Game（游戏）和Finance（金融）两个词组合而成，意指为
 
 # GameFi发展史
 最早期的GameFi，其实是以EOS为底层协议的博彩游戏。然后由AXIE币安一手投资开创的双币模型，进而也诞生了像YGG一样的游戏公会。随着GameFi的继续发展，市场上逐步涌现出一批新的玩法，从Play to earn过渡到Run to earn、learn to earn等，并涌现出了一批优质项目，比如Stepn以及LMS（学习英语）等新的链游。
+
+# 🌐 Sources

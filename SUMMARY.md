@@ -28,7 +28,7 @@
 * [非同质化代币(NFTs)](NFTs/README.md)
   * [什么是 NFT](NFTs/what_is_NFT.md)
   * [NFT 演变过程](NFTs/how_NFT_concept_formed.md)
-  * [NFT 制作和运营](NFTs/how_NFT_generate.md)
+  * [NFT 创作和运营](NFTs/how_NFT_generate.md)
   * [NFT 市场](NFTs/NFT_market.md)
   * [NFT 用途](NFTs/what_are_NFTs_used_for.md)
   * [NFT 生态](NFTs/NFT_ecosystem.md)

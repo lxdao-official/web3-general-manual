@@ -9,24 +9,42 @@
 ### 协议层
 
 #### 区块链网络
-也称为链，是构建整个 Web3 生态的基础。一条链可以是一个相对独立的生态。
-另外为了扩展公链的性能，有大量的 L2 和侧链出现，比如以太坊生态的 Optimism、Arbitrum、Starknet 等。
+也称为链，是构建整个 Web3 生态的基础。一条链可以是一个相对独立的生态，我们比较熟悉的有 BTC、Ethereum、BNB 等。
+另外为了扩展公链的性能，有大量的 L2 和侧链出现，比如以太坊生态的 Optimism、Arbitrum、Polygon 等。
+<br>图标
+BTC: https://www.flaticon.com/free-icon/bitcoin_5968260
+Ethereum: https://www.flaticon.com/free-icon/coins_10464500?term=ethereum&page=1&position=9&origin=search&related_id=10464500
+BNB: https://icons.llamao.fi/icons/chains/rsz_binance.jpg
+Optimism: https://icons.llamao.fi/icons/chains/rsz_optimism.jpg
+Arbitrum: https://icons.llamao.fi/icons/chains/rsz_arbitrum.jpg
+Polygon: https://icons.llamao.fi/icons/chains/rsz_polygon.jpg
+Base: https://icons.llamao.fi/icons/chains/rsz_base.jpg
 
-（图）
 #### 跨链桥
 是一种连接不同区块链网络的技术或协议，允许数字资产或数据在这些不同的区块链之间传输和互操作。它们充当了区块链之间的桥梁，以确保跨链资产的互通性和流动性。
-（图）
+<br>图标
+across protocol: (./images/across.png)
 
+synapse protocol: (./images/synapse.png)
+
+stargate: (./images/stargate.png)
 ### 基础设施
 
 #### 节点服务
 节点服务是连接区块链网络和 DApp 的桥梁，可以为一个提供读和写数据到区块链网络的服务器。
 
-（图）
+alchemy: (./images/alchemy.jpeg)
+
+infura: (./images/infura.png)
+
+quicknode: (./images/quicknode.png)
+
 #### 网络存储
 是指提供去中心化存储的服务商，有 IPFS、Arweave、Filecoin 等。
-
-（图）
+<br>图标
+ipfs: (./images/ipfs.png)
+Arweave: (./images/arweave.webp)
+Filecoin: (./images/filecoin.png)
 
 #### 数据服务
 区块链上有大量的原始数据是无法直接使用的，有一些平台提供将链上数据进行索引、分析、归档等处理，提供开放 API。

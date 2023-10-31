@@ -1,30 +1,30 @@
 # Web3 生态
-前面我们讲了 2 个项目和用户非常活跃的 Web3 领域，除此之外，还有很多其它领域也是非常值得观注的。比如 GameFi、Social、创作者经济、去中心化存储、基础设施等等。
+前面我们介绍了 2 个生态非常活跃的 Web3 领域，除此之外，还有很多其它领域也是非常值得关注的。
 <br>
-如果我们站在更高的多个维度来看整个 Web3 行业概况，应该是怎样的呢，下面我们尝试从分层的理念来梳理整个 Web3 生态。
+如果我们站在更高的维度来看待 Web3 生态，应该是怎样的呢，下面我们尝试使用分层设计来梳理。
 
 ## 分层
-分层模式只是用于梳理 Web3 行业各种产品和服务的生态位，取部分有代表性的条目进行展示。
+下面的分层设计用于梳理 Web3 生态大部分平台、产品、服务等，取部分有代表性的条目进行展示。
 
 ### 协议层
 
 #### 区块链网络
-也称为链，是构建整个 Web3 生态的基础。一条链可以是一个相对独立的生态，我们比较熟悉的有 BTC、Ethereum、BNB 等。
-另外为了扩展公链的性能，有大量的 L2 和侧链出现，比如以太坊生态的 Optimism、Arbitrum、Polygon 等。
+区块链网络也称为链，是构建整个 Web3 生态的基础。一条链可以是一个相对独立的生态，我们比较熟悉的有 BTC、Ethereum、Solana, BNB 等。
+基于以太坊生态，对公链进行扩容，出现了一些的 L2 和侧链，比如 Optimism、Arbitrum、Polygon 等。
 <br>图标
-BTC: https://www.flaticon.com/free-icon/bitcoin_5968260
+BTC: (./images/btc.png)
 
-Ethereum: https://www.flaticon.com/free-icon/coins_10464500?term=ethereum&page=1&position=9&origin=search&related_id=10464500
+Ethereum: (./images/ethereum.png)
 
-BNB: https://icons.llamao.fi/icons/chains/rsz_binance.jpg
+BNB: (./images/bnb.webp)
 
-Optimism: https://icons.llamao.fi/icons/chains/rsz_optimism.jpg
+Optimism: (./images/op.webp)
 
-Arbitrum: https://icons.llamao.fi/icons/chains/rsz_arbitrum.jpg
+Arbitrum: (./images/arbitrum.png)
 
-Polygon: https://icons.llamao.fi/icons/chains/rsz_polygon.jpg
+Polygon: (./images/polygon.png)
 
-Base: https://icons.llamao.fi/icons/chains/rsz_base.jpg
+Base: (./images/base.webp)
 
 #### 跨链桥
 是一种连接不同区块链网络的技术或协议，允许数字资产或数据在这些不同的区块链之间传输和互操作。它们充当了区块链之间的桥梁，以确保跨链资产的互通性和流动性。
@@ -49,7 +49,9 @@ quicknode: (./images/quicknode.png)
 是指提供去中心化存储的服务商，有 IPFS、Arweave、Filecoin 等。
 <br>图标
 ipfs: (./images/ipfs.png)
+
 Arweave: (./images/arweave.webp)
+
 Filecoin: (./images/filecoin.png)
 
 #### 数据服务
@@ -60,12 +62,6 @@ Dune: (./images/dune.webp)
 
 theGraph: (./images/thegraph.webp)
 
-#### 技术服务
-OpenZeppelin
-theGraph: (./images/thegraph.png)
-
-Uniswap Core: (./images/uniswapv3.png)
-
 ### 应用层
 应用层在整个 Web3 生态占比是最大的，也是直接面向用户的。
 
@@ -74,9 +70,9 @@ Snapshot、Tally、Boardroom、Aragon
 
 Snapshot: (./images/snapshot.png)
 
-Tally: (./images/tally.webp)
+Tally: (./images/tally.png)
 
-Boardroom: (./images/boardroom.webp)
+Boardroom: (./images/boardroom.png)
 
 Aragon: (./images/aragon.png)
 
@@ -100,6 +96,8 @@ Uniswap: (./images/uniswap.webp)
 
 Compound: (./images/compound.png)
 
+Aave: (./images/aave.png)
+
 PancakeSwap: (./images/pancakeswap.png)
 
 #### 游戏
@@ -112,8 +110,14 @@ Splinterlands: (./images/splinterlands.jpg)
 #### NFT
 OpenSea、Blur
 
+OpenSea: (./images/opensea.png)
+
+Blur: (./images/blur.png)
+
 #### 社交
-Lens Protocol
+Lens Protocol、Farcaster
+
+Farcaster: (./images/farcaster.png)
 
 ## 其它领域
 在上述的分层设计中，有许多产品或项目未被归纳进来的。

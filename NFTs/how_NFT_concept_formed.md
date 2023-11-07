@@ -11,16 +11,16 @@
 - 提案动机：标准接口允许以太坊上的任何代币被其他应用程序重复使用：从钱包到去中心化交易所。
 - 现在市面上流通非常广的稳定币，比如 USDT、USDC 等，就是采用了 ERC-20 标准。
 
-![NFTS](images/NFT5.png)
+![NFTS](images/NFT5.jpg)
 
 ## ERC-721
 [ERC-721](https://eips.ethereum.org/EIPS/eip-721) 表示非同质化（也可翻译为不可替代）代币标准
 - 该标准是受到了 ERC-20 的启发，并建立在 ERC-20 长达 2 年的应用经验之上。
 - 提案动机：允许钱包/经纪人/拍卖应用程序与以太坊上的任何 NFT 配合使用。
 - 同质化和非同质化的区别如下图。
-![NFTS](images/NFT2.png)
+![NFTS](images/NFT2.jpg)
 - 现在币面上绝大部分 NFT 采用的就是 ERC-721 标准。
-![NFTS](images/NFT6.png)
+![NFTS](images/NFT6.jpg)
 
 ## ERC-1155
 [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) 表示多代币标准。
@@ -28,7 +28,7 @@
 - 提案动机：ERC-20 和 ERC-721 过于单一，不能满足新兴的行业需求，比如区块链游戏，采用 ERC-1155 标准的合约可以同时操作多种代币，节约交易成本。
 - 少部分 NFT 既有同质化，也有非同质化需求，采用的是 ERC-1155 标准，在游戏领域采用较多。
 
-![NFTS](images/NFT7.png)
+![NFTS](images/NFT7.jpg)
 
 ## 演变过程
 上述是一些 EIP 基础知识介绍，那我们梳理出来的演变逻辑如下。

@@ -2,7 +2,7 @@
 
 NFT（Non-fungible token）是代表一种类型的数字代币或资产，起源于以太坊区块链。
 
-![NFTS](images/NFT1.png)
+![NFTS](images/NFT1.jpg)
 
 ## NFT 的特征
 想要理解透彻 NFT 的特征，我们需要了解一些基础技术相关知识，比如 EIP、ERC-721、钱包、智能合约等。
@@ -16,7 +16,7 @@ NFT（Non-fungible token）是代表一种类型的数字代币或资产，起�
 ### 不可分割的（indivisible）
 跟 ERC-20 不一样，ERC-721 是没有 decimals 接口方法的。所以基于 ERC-721 标准所产生的 每个NFT，数量就是整数1，没有小数点，从数据层面无法被分割。
 
-![NFTS](images/NFT3.png)
+![NFTS](images/NFT3.jpg)
 
 ## NFT 的本质
 我们深入到技术层面看，NFT 的本质只是一个地址（wallet）拥有一段数据（data），如何理解：

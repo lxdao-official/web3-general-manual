@@ -24,7 +24,7 @@
 * [第五章：去中心化金融(DeFi)](DeFi/5-DeFi.md)
   * [什么是 DeFi](DeFi/5.1-what-is-DeFi.md)
   * [DeFi 与中心化金融的区别](DeFi/5.2-DeFi-and-CeFi.md)
-  * [DeFi 常见金融项目](DeFi/5.3-Common-Financial-Projects-in-DeFi.md)
+  * [DeFi 常见金融业务](DeFi/5.3-Common-Financial-Projects-in-DeFi.md)
   * [其他 DeFi 业务](DeFi/5.4-Other-DeFi-Project.md)
   * [DeFi 的风险和潜力](DeFi/5.5-Risks-and-Potential-of-DeFi.md)
   * [代币经济模型与 veToken](DeFi/5.6-veToken.md)

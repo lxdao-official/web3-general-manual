@@ -38,7 +38,7 @@
 * [第七章：Web3 生态和其它领域](web3_ecosystem/README.md)
   * [Web3 生态](web3_ecosystem/web3_landscape.md)
   * [GameFi](web3_ecosystem/GameFi.md)
-  * [Social](web3_ecosystem/social.md)
+  * [Social](web3_ecosystem/web3_social.md)
   * [创作者经济](web3_ecosystem/creator_economic.md)
   * [去中心化存储](web3_ecosystem/storage.md)
   * [DAO](web3_ecosystem/DAO.md)

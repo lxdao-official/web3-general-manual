@@ -53,4 +53,5 @@
   * [法律与监管](Practical-Problem/9.2-Regulation.md)
   * [反洗钱与 DeFi](Practical-Problem/9.3-AML-and-DeFi.md)
 * [第十章：Web3热点]()
-  * [LSDFi](Hotspot\lsdfi.md)
+  * [LSDFi](Hotspot/lsdfi.md)
+  * [RWA](Hotspot/rwa.md)

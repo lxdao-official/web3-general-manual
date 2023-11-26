@@ -27,6 +27,7 @@
   * [其他 DeFi 业务](DeFi/5.4-Other-DeFi-Project.md)
   * [DeFi 的风险和潜力](DeFi/5.5-Risks-and-Potential-of-DeFi.md)
   * [代币经济模型与 veToken](DeFi/5.6-veToken.md)
+  * [代币](chapter3/3.5-others.md)
 * [第六章：非同质化代币(NFTs)](NFTs/README.md)
   * [什么是 NFT](NFTs/what_is_NFT.md)
   * [NFT 演变过程](NFTs/how_NFT_concept_formed.md)

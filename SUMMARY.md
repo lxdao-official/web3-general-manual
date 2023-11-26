@@ -16,7 +16,6 @@
   * [比特币](chapter3/3.2-bitcoin.md)
   * [以太坊](chapter3/3.3-ethereum.md)
   * [钱包](chapter3/3.4-wallet.md)
-  * [其它资产](chapter3/3.5-others.md)
 * [第四章: 去中心化应用程序](Dapp/4.0-dapp.md)
   * [什么是 DApp](Dapp/4.1-What%20is%20the%20Dapp.md)
   * [智能合约](Dapp/4.2-SmartContract.md)

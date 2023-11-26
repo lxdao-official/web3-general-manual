@@ -15,6 +15,7 @@
   * [什么是数字资产](chapter3/3.1-digital_assets.md)
   * [比特币](chapter3/3.2-bitcoin.md)
   * [以太坊](chapter3/3.3-ethereum.md)
+  * [代币](chapter3/3.5-others.md)
   * [钱包](chapter3/3.4-wallet.md)
 * [第四章: 去中心化应用程序](Dapp/4.0-dapp.md)
   * [什么是 DApp](Dapp/4.1-What%20is%20the%20Dapp.md)
@@ -27,7 +28,7 @@
   * [其他 DeFi 业务](DeFi/5.4-Other-DeFi-Project.md)
   * [DeFi 的风险和潜力](DeFi/5.5-Risks-and-Potential-of-DeFi.md)
   * [代币经济模型与 veToken](DeFi/5.6-veToken.md)
-  * [代币](chapter3/3.5-others.md)
+
 * [第六章：非同质化代币(NFTs)](NFTs/README.md)
   * [什么是 NFT](NFTs/what_is_NFT.md)
   * [NFT 演变过程](NFTs/how_NFT_concept_formed.md)
